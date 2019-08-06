@@ -1,0 +1,8 @@
+remote_theme: 'epidrome/cover-card'
+
+title: 'FL3K$'
+
+background: 'https://i.imgur.com/JNQe2eH.jpg'
+
+plugins:
+  - jekyll-remote-theme
